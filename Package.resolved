@@ -1,6 +1,15 @@
 {
   "pins" : [
     {
+      "identity" : "libwebp-xcode",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/libwebp-Xcode",
+      "state" : {
+        "revision" : "0d60654eeefd5d7d2bef3835804892c40225e8b2",
+        "version" : "1.5.0"
+      }
+    },
+    {
       "identity" : "yycache",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Asura19/YYCache.git",
@@ -14,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Asura19/YYImage.git",
       "state" : {
-        "revision" : "6379d0bb968b2236cdf2a7bb0da0c7dc8b5c8ab5",
-        "version" : "1.0.6"
+        "branch" : "webp",
+        "revision" : "609440f90555f59cd4c209ee4a0d1217dfea240f"
       }
     }
   ],
