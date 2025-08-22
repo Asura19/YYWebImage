@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "yycache",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Asura19/YYCache.git",
+      "state" : {
+        "revision" : "57deadf012b5958593579e14bb6a1693c01a1910",
+        "version" : "1.0.5"
+      }
+    },
+    {
+      "identity" : "yyimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Asura19/YYImage.git",
+      "state" : {
+        "revision" : "685539fe679627d3f9137f5226d66065262afdd3",
+        "version" : "1.0.5"
+      }
+    }
+  ],
+  "version" : 2
+}
