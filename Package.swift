@@ -13,7 +13,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/Asura19/YYImage.git", from: "1.0.5"),
+        .package(url: "https://github.com/Asura19/YYImage.git", from: "1.0.6"),
         .package(url: "https://github.com/Asura19/YYCache.git", from: "1.0.5"),
     ],
     targets: [

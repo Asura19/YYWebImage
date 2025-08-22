@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Asura19/YYImage.git",
       "state" : {
-        "revision" : "685539fe679627d3f9137f5226d66065262afdd3",
-        "version" : "1.0.5"
+        "revision" : "6379d0bb968b2236cdf2a7bb0da0c7dc8b5c8ab5",
+        "version" : "1.0.6"
       }
     }
   ],
